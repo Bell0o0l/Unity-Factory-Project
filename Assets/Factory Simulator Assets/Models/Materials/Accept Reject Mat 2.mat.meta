@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baa1aa8ebac030443a6515b08ba75b34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Accept Reject Mat 2.mat
+  uploadId: 648256

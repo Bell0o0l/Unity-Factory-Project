@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a278a7c62202c264cbc3030ba52a2336
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Resources/prefabs/Sim_pusher_machine.prefab
+  uploadId: 648256

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d5f12fd4ab7e574396e285ac2fbe061
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Carton.mat
+  uploadId: 648256

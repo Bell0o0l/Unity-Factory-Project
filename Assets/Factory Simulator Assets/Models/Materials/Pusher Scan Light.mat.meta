@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3010303645d620145a8e21e622305668
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Pusher Scan Light.mat
+  uploadId: 648256

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56beeb140f89260448053b1b20e61b9e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Resources/prefabs/Sim_Item.prefab
+  uploadId: 648256

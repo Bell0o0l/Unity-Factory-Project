@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ae35b843cfdf384fbb8870e89214c68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Scripts/InOutMachine.cs
+  uploadId: 648256

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b0dfdb0358488a43a8bcb4207545b5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Scripts/RejectedItemsMachine.cs
+  uploadId: 648256

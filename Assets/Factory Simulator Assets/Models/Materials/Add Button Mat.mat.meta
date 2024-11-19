@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdd89cd7e21e60d4281ae0bc5fe1428e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Add Button Mat.mat
+  uploadId: 648256

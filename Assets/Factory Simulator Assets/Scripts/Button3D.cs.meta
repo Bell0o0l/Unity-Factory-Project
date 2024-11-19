@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2507e95a7e027a249ac0ae9edd8a7e9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Scripts/Button3D.cs
+  uploadId: 648256

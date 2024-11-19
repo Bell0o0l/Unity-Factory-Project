@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a984191d5de47449bf6e744be35d0dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/in_out_machine_3.mat
+  uploadId: 648256

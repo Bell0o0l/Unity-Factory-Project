@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 312abe72119693b468ca5135197fad3e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Resources/prefabs/Sim_conveyor_belt3.prefab
+  uploadId: 648256

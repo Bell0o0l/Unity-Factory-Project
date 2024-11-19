@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b86a19d7f8e9ade498ee71501706c59a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Resources/prefabs/Sim_Time_Manager_Screen.prefab
+  uploadId: 648256

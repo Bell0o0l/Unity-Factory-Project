@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1766354f6b8f6243a657870026ea70f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Factory Walls3.mat
+  uploadId: 648256

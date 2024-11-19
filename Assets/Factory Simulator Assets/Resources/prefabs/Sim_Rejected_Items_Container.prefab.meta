@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00fbd7f34ff5f57428874521ed4f1e04
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Resources/prefabs/Sim_Rejected_Items_Container.prefab
+  uploadId: 648256

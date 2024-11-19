@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4436b928e866e7b4b8f1b171a98d35e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/spray_top.mat
+  uploadId: 648256

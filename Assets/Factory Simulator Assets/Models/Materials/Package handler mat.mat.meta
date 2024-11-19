@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c0e11a2630020e4798091b08d95ea0d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Package handler mat.mat
+  uploadId: 648256

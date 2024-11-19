@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4e141d3b302a8842bc044d5bea6d9a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Carton cover.mat
+  uploadId: 648256

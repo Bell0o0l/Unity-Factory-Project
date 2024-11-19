@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 462c56c6f3724784a90336f065112794
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Factory Ceiling.mat
+  uploadId: 648256

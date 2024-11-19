@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92ae7ae787ba39f47b6774577fe1545e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/Factory Floor.mat
+  uploadId: 648256

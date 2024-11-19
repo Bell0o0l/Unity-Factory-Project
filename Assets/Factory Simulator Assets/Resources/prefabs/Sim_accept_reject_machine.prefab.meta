@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e0b57f53a2c5714f9fdd9a5100b3ced
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Resources/prefabs/Sim_accept_reject_machine.prefab
+  uploadId: 648256

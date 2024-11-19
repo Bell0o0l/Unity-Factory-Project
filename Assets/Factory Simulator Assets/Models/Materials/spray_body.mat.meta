@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4dbec150d9b2214f9723e5671fd2f80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254129
+  packageName: Factory Simulator
+  packageVersion: 1.0
+  assetPath: Assets/Factory Simulator Assets/Models/Materials/spray_body.mat
+  uploadId: 648256
